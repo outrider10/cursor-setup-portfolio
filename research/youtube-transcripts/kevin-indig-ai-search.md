@@ -2,6 +2,8 @@
 
 Video ID: jQXvbeYF5go
 
+## Transcript
+
 Today, SEO is facing one of the biggest
 shakeups we've seen in years. Between
 generative AI, search experience
