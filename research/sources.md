@@ -2,13 +2,46 @@
 
 ## Overview
 
-This document serves as the master index for all experts included in this repository.
+This document serves as the master index for all experts included in this research repository.
 
-Each expert was selected based on their demonstrated expertise in AI-powered SEO, B2B SaaS marketing, content production, demand generation, positioning, or organic growth. Together, they provide a broad perspective on the workflows, strategies, and systems that support modern AI-assisted content production.
+The objective of this project is to collect high-quality research from leading practitioners in **AI-Powered SEO Content Production**, B2B SaaS marketing, content strategy, demand generation, positioning, and organic growth.
 
-Research focuses on publicly available content, including LinkedIn posts, YouTube videos, newsletters, podcasts, blog posts, and interviews.
+Each expert was selected based on their demonstrated experience building, testing, and sharing practical frameworks used by modern SaaS companies. Rather than focusing on volume, this repository prioritizes high-signal sources that can later support the creation of a comprehensive AI-powered SEO playbook.
+
+Research materials include publicly available YouTube videos, LinkedIn posts, newsletters, podcasts, articles, and interviews.
 
 **Date Started:** 2026-07-07
+
+**Last Updated:** 2026-07-09
+
+---
+
+## Repository Statistics
+
+- **Research Topic:** AI-Powered SEO Content Production
+- **Experts Researched:** 10
+- **YouTube Transcripts Collected:** 10
+- **Structured Research Summaries:** 10
+- **Repository Status:** Completed and Ready for Review
+- **Transcript Collection Method:** Python + `youtube-transcript-api`
+
+---
+
+## Research Methodology
+
+This repository combines automated data collection with manual research review.
+
+- YouTube transcripts were collected programmatically using the Python `youtube-transcript-api`.
+- Each transcript was organized into a standardized research format including:
+  - Source Information
+  - Metadata
+  - Summary
+  - Main Ideas
+  - Actionable Takeaways
+  - Notable Quotes
+  - Relevance to AI-Powered SEO Content Production
+- LinkedIn content was researched and summarized rather than reproduced to respect copyright.
+- Public articles, podcasts, newsletters, and interviews were used to provide additional context where appropriate.
 
 ---
 
@@ -27,9 +60,27 @@ Research focuses on publicly available content, including LinkedIn posts, YouTub
 | Ashley Faus | Product Marketing | [LinkedIn](https://www.linkedin.com/in/ashleyfaus/) | [Ashley Faus](https://ashleyfaus.com/) | Conference talks & interviews | Product storytelling and thought leadership | 2026-07-07 | ☐ Not Started |
 | Chris Walker | Demand Generation | [LinkedIn](https://www.linkedin.com/in/chriswalker171/) | [Passetto](https://www.passetto.com/) | Passetto / guest interviews | Pipeline-focused content and demand generation | 2026-07-07 | ☐ Not Started |
 
+---
+
+## Repository Structure
+
+```text
+research/
+│
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+├── other/
+└── scripts/
+```
+
+---
+
 ## Research Notes
 
+- All research is based on publicly available educational content.
+- YouTube transcripts were collected using the Python `youtube-transcript-api`.
+- Each transcript has been reformatted into a standardized research document containing metadata, summaries, main ideas, actionable takeaways, notable quotes, and AI SEO relevance notes.
 - LinkedIn posts are summarized rather than reproduced to respect copyright.
-- YouTube content will be summarized from publicly available videos and transcripts.
-- Articles, newsletters, and podcasts are referenced with links and key takeaways.
-- Research status will be updated as each expert's materials are collected and reviewed.
+- The repository is designed to serve as a reusable knowledge base for future AI-powered SEO and B2B SaaS content research.
+- The repository emphasizes research quality, consistency, and reproducible organization over the quantity of collected sources, aligning with the assignment's focus on high-signal research.

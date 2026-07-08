@@ -1,6 +1,71 @@
 # Chris Walker
 
-Video ID: IW02GkREyQs
+## Source
+
+**Video:** T1 | E6 - Demand Generation Essentials - Chris Walker
+
+**URL:** https://www.youtube.com/watch?v=IW02GkREyQs
+
+## Metadata
+
+**Expert:** Chris Walker
+
+**Primary Topic:** B2B Demand Generation & Revenue Marketing Strategy
+
+**Date Accessed:** 2026-07-08
+
+---
+
+# Summary
+
+## Main Ideas
+
+- Marketing should shift from a "lead generation" (MQL-chasing) mindset to a "demand generation" mindset, where the goal is educating and building trust with the market rather than shoving unqualified leads to sales.
+- Only 1–2% of a total addressable market is actively "in-market" to buy at any given time; most demand-gen budget and channels (paid social, podcasts, community, organic content) should target the other 98% who aren't yet ready.
+- Revenue teams should be organized around three budget/measurement categories: creating demand, capturing demand, and converting demand — not just the traditional "marketing vs. sales" split.
+- Last-touch/digital attribution tools are structurally biased toward "capturing" demand and miss the earlier, harder-to-track work of creating demand.
+- Self-reported attribution (asking buyers how they heard about you) is a simple, low-cost data point that reveals insights last-touch attribution can't, though it isn't perfect or a "silver bullet."
+- Companies should distinguish between "organic market demand" (outside their control) and "earned demand" (demand they actively created), and aim to maximize the latter.
+- The old MQL-driven playbook was built in an era (roughly 2012–2016) before full-funnel tracking existed, so it was never actually validated against real pipeline/revenue outcomes.
+- Buyer journeys are non-linear — buyers move in and out of "in-market" status and touch many channels in unpredictable order, making a rigid, forced funnel counterproductive.
+- Strategies that work at an early-stage startup (unscalable, high-touch, expensive per lead) often break down and become inefficient once a company scales.
+- Marketers who take a risk-averse, "just deliver MQLs" approach to please executives often stagnate professionally, whereas those willing to challenge leadership (even at risk of getting fired) tend to drive better outcomes and careers.
+
+## Actionable Takeaways
+
+- Split go-to-market budget and measurement into three distinct buckets: create demand, capture demand, convert demand — and check whether your team is over-invested in only the first two.
+- Build an "always-on" education/awareness engine (podcast, organic social, community, thought leadership) aimed at the 98% not yet in-market, not just paid search/retargeting for the 1–2% actively buying.
+- Add a simple self-reported attribution field to conversion forms and let it run for 30 days before deciding whether it's useful, rather than dismissing it outright.
+- Track full-funnel data from lead to closed revenue — cost-per-lead or MQL volume alone is not a meaningful ROI metric.
+- Talk directly to your sales team (or even make calls yourself) about lead quality to see the real downstream impact of top-of-funnel tactics.
+- When scaling past $20–50M ARR, audit early-stage "unscalable" tactics (high CAC, manual plays) that no longer hold up at volume.
+- Build core skills for demand-focused marketers: deep customer research (qual + quant), the ability to analyze cross-functional revenue data (not just attribution software) and turn it into a compelling narrative for execs, and the ability to produce/distribute organic ("dark social") content.
+- Be willing to have direct, sometimes uncomfortable conversations with executives about why legacy lead-gen practices are wasting budget, backed by full-funnel data.
+- Treat marketing/sales alignment as one shared revenue system with shared metrics, rather than two departments with competing incentives.
+- Distinguish in reporting between demand you organically received versus demand your own marketing activity actually created.
+
+## Notable Quotes
+
+- "You can't just go on to LinkedIn and Facebook ads and pump up MQLs and expect that your SDRs and your sales team are going to close those deals."
+- "One or two percent of your total addressable market is ever actively buying."
+- "Self-reported attribution is a free, easy to implement way to get key insights."
+- "The buyer is telling you typically how they heard about you or what was the most impactful channel."
+- "Buyers don't buy this way; it makes no sense."
+- "I don't care if one of my ideas don't work. I just put it into practice and I'll learn."
+- "Understand customers better than anybody else in the company."
+- "It's not about building the report — it's really about the interpretation."
+
+## Relevance to AI-Powered SEO Content Production
+
+- Reinforces that organic content (podcasts, LinkedIn, community content) can be the true demand-creation engine even when last-touch/SEO analytics attribute conversions to "Google search" — a key argument for AI-generated content strategies to track brand/dark-social influence, not just keyword rankings.
+- Supports building always-on educational content engines (a natural fit for AI-scaled SEO/content production) aimed at the 98% of the market not yet in-market, rather than only optimizing for immediate-intent keywords.
+- Highlights the limits of last-touch attribution — directly relevant to AI SEO teams needing to justify top-of-funnel content investment when conversion tracking undercounts its influence.
+- Validates self-reported attribution as a practical, low-lift measurement layer that AI content/SEO programs can add to forms to capture "how did you hear about us" data alongside standard analytics.
+- Suggests segmenting content strategy by buyer intent stage (in-market vs. not-in-market) — useful for structuring AI-generated content calendars across awareness, consideration, and conversion-stage topics.
+- Emphasizes deep customer/market research and data storytelling as differentiating skills — AI content workflows should be paired with real qualitative/quantitative research inputs rather than purely automated keyword-driven production.
+- Warns against tactics that work at small scale but break down at scale — relevant caution for AI content production programs scaling output without matching quality/strategy controls.
+
+ ---
 
 ## Transcript
 
