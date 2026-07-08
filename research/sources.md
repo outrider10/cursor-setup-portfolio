@@ -21,7 +21,8 @@ Research materials include publicly available YouTube videos, LinkedIn posts, ne
 - **Research Topic:** AI-Powered SEO Content Production
 - **Experts Researched:** 10
 - **YouTube Transcripts Collected:** 10
-- **Structured Research Summaries:** 10
+- **LinkedIn Research Files:** 10
+- **Structured Research Documents:** 20
 - **Repository Status:** Completed and Ready for Review
 - **Transcript Collection Method:** Python + `youtube-transcript-api`
 
@@ -32,7 +33,9 @@ Research materials include publicly available YouTube videos, LinkedIn posts, ne
 This repository combines automated data collection with manual research review.
 
 - YouTube transcripts were collected programmatically using the Python `youtube-transcript-api`.
-- Each transcript was organized into a standardized research format including:
+- Recent LinkedIn posts were manually collected, analyzed, and summarized in dedicated research files.
+- Each research document follows a standardized structure to improve readability and consistency.
+- YouTube transcript research includes:
   - Source Information
   - Metadata
   - Summary
@@ -40,8 +43,8 @@ This repository combines automated data collection with manual research review.
   - Actionable Takeaways
   - Notable Quotes
   - Relevance to AI-Powered SEO Content Production
-- LinkedIn content was researched and summarized rather than reproduced to respect copyright.
-- Public articles, podcasts, newsletters, and interviews were used to provide additional context where appropriate.
+- LinkedIn research files summarize recent posts and key insights rather than reproducing copyrighted content verbatim.
+- Public articles, podcasts, newsletters, and interviews were used as supporting context where appropriate.
 
 ---
 
@@ -62,15 +65,26 @@ This repository combines automated data collection with manual research review.
 
 ---
 
+## Deliverables
+
+This repository contains:
+
+- **10 YouTube transcript research files** with structured summaries, actionable takeaways, notable quotes, and relevance to AI-Powered SEO Content Production.
+- **10 LinkedIn research files** summarizing recent posts, key insights, and recurring themes for each expert.
+- **1 master research index (`sources.md`)** documenting expert selection, research methodology, and repository organization.
+- **Python automation scripts** used to collect YouTube transcripts via the `youtube-transcript-api`.
+
+---
+
 ## Repository Structure
 
 ```text
 research/
 │
-├── sources.md
 ├── linkedin-posts/
 ├── youtube-transcripts/
 ├── other/
+├── sources.md
 └── scripts/
 ```
 
@@ -80,7 +94,7 @@ research/
 
 - All research is based on publicly available educational content.
 - YouTube transcripts were collected using the Python `youtube-transcript-api`.
-- Each transcript has been reformatted into a standardized research document containing metadata, summaries, main ideas, actionable takeaways, notable quotes, and AI SEO relevance notes.
-- LinkedIn posts are summarized rather than reproduced to respect copyright.
-- The repository is designed to serve as a reusable knowledge base for future AI-powered SEO and B2B SaaS content research.
-- The repository emphasizes research quality, consistency, and reproducible organization over the quantity of collected sources, aligning with the assignment's focus on high-signal research.
+- LinkedIn research files summarize recent posts in the researcher's own words rather than reproducing copyrighted content verbatim.
+- Every transcript has been reformatted into a standardized research document containing metadata, summaries, main ideas, actionable takeaways, notable quotes, and AI SEO relevance notes.
+- The repository is designed as a reusable knowledge base for future AI-powered SEO, AI search, content strategy, and B2B SaaS marketing research.
+- Emphasis was placed on research quality, consistency, reproducible organization, and high-signal expert selection rather than collecting a large quantity of sources.
